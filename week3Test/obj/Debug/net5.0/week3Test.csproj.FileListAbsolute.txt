@@ -1,0 +1,16 @@
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\week3Test.csprojAssemblyReference.cache
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\week3Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\week3Test.AssemblyInfoInputs.cache
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\week3Test.AssemblyInfo.cs
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\week3Test.csproj.CoreCompileInputs.cache
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\bin\Debug\net5.0\week3Test.exe
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\bin\Debug\net5.0\week3Test.deps.json
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\bin\Debug\net5.0\week3Test.runtimeconfig.json
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\bin\Debug\net5.0\week3Test.runtimeconfig.dev.json
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\bin\Debug\net5.0\week3Test.dll
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\bin\Debug\net5.0\ref\week3Test.dll
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\bin\Debug\net5.0\week3Test.pdb
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\week3Test.dll
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\ref\week3Test.dll
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\week3Test.pdb
+C:\Users\valentina.comerci\source\repos\week3Test\week3Test\obj\Debug\net5.0\week3Test.genruntimeconfig.cache
